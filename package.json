@@ -1,0 +1,22 @@
+{
+  "name": "filename-sc2tc",
+  "version": "1.0.0",
+  "description": "將檔案名稱從簡體轉為繁體的小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnehs/filename-sc2tc.git"
+  },
+  "author": "gnehs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnehs/filename-sc2tc/issues"
+  },
+  "homepage": "https://github.com/gnehs/filename-sc2tc#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
